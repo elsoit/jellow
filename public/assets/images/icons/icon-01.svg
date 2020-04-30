@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.8359" height="61" viewBox="0 0 76.8359 61">
+  <defs>
+    <linearGradient id="linear-gradient" x1="8.9746" y1="6.3001" x2="14.4604" y2="6.3001" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c93125"/>
+      <stop offset="1" stop-color="#c32365"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="17.772" y1="6.3001" x2="23.2578" y2="6.3001" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="26.5688" y1="6.3001" x2="32.0547" y2="6.3001" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="30.5" x2="76.8359" y2="30.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="27.0757" y1="34.4033" x2="49.7603" y2="34.4033" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Capa_1" data-name="Capa 1">
+      <g>
+        <rect x="8.9746" y="5.3001" width="5.4858" height="2" fill="url(#linear-gradient)"/>
+        <rect x="17.772" y="5.3001" width="5.4858" height="2" fill="url(#linear-gradient-2)"/>
+        <rect x="26.5688" y="5.3001" width="5.4858" height="2" fill="url(#linear-gradient-3)"/>
+        <path d="M0,0V61H76.8359V0ZM73.8359,2.8594V9.4H3V2.8594ZM3,58.1406V12.4H73.8359V58.1406Z" fill="url(#linear-gradient-4)"/>
+        <path d="M49.71,31.8628a1.1745,1.1745,0,0,0-.896-.814l-6.6626-1.3354-2.6568-5.9873a1.1492,1.1492,0,0,0-1.0756-.6651H38.418a1.15,1.15,0,0,0-1.0767.6656l-2.6562,5.9868-6.6622,1.3354a1.1783,1.1783,0,0,0-.6025,1.9883l4.6367,4.645L30.729,44.3364a1.1771,1.1771,0,0,0,1.6333,1.3072l6.0557-2.6958,6.0556,2.6962a1.2017,1.2017,0,0,0,1.2144-.1572,1.1752,1.1752,0,0,0,.4189-1.1514l-1.3286-6.6533,4.6367-4.6445a1.1785,1.1785,0,0,0,.295-1.1743ZM34.49,37.5259a1.1782,1.1782,0,0,0-.3213-1.064l-3.5278-3.5337,5.103-1.0229a1.1774,1.1774,0,0,0,.8457-.6773l1.8282-4.1191,1.8281,4.12a1.1784,1.1784,0,0,0,.8452.6768l5.1035,1.0229L42.667,36.4619a1.1787,1.1787,0,0,0-.3213,1.064l1.0054,5.0381-4.4536-1.9834a1.1865,1.1865,0,0,0-.9585,0L33.4849,42.564Z" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

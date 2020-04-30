@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="61" viewBox="0 0 61 61">
+  <defs>
+    <linearGradient id="linear-gradient" y1="30.5" x2="61" y2="30.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c93125"/>
+      <stop offset="1" stop-color="#c32365"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="14.5352" x2="46.4648" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="46.3154" y1="13.2549" x2="49.1748" y2="13.2549" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Capa_1" data-name="Capa 1">
+      <g>
+        <path d="M43.7138,0H17.2863A17.3059,17.3059,0,0,0,0,17.2863V43.7137A17.3059,17.3059,0,0,0,17.2863,61H43.7137A17.3059,17.3059,0,0,0,61,43.7138V17.2863A17.3059,17.3059,0,0,0,43.7138,0ZM58.1406,43.7137A14.4432,14.4432,0,0,1,43.7138,58.1406H17.2863A14.4432,14.4432,0,0,1,2.8594,43.7138V17.2863A14.4433,14.4433,0,0,1,17.2863,2.8594H43.7137A14.4433,14.4433,0,0,1,58.1406,17.2863Z" fill="url(#linear-gradient)"/>
+        <path d="M30.5,14.5352A15.9648,15.9648,0,1,0,46.4648,30.5,15.9828,15.9828,0,0,0,30.5,14.5352Zm0,29.07A13.1055,13.1055,0,1,1,43.6055,30.5,13.12,13.12,0,0,1,30.5,43.6055Z" fill="url(#linear-gradient-2)"/>
+        <circle cx="47.7451" cy="13.2549" r="1.4297" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
